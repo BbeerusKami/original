@@ -1,0 +1,13 @@
+//Naranbat 2016093	2019/03/01
+fun main(args : Array<String>) {
+    
+var english = 90
+var history = 80
+var music = 80
+var z = english+history+music
+var p = (english+history+music)/2
+	
+println("English $english,\nHistory $history,\nMusic $music,")
+println("Total=$z")		
+println("Ave=$p")
+}
